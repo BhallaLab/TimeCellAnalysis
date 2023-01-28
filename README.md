@@ -87,7 +87,7 @@ Subsequent analysis and paper figures are generated using the following function
 
 Following this command, the actual files will be placed in
 
-	~/.local/bin/TimeCellAnalysis
+	~/.local/lib/pythonX/site-packages/TimeCellAnalysis
 
 
 
